@@ -12,13 +12,21 @@ and create a scraper for at least 1k entries.
 ● Save Data in a JSON format, attribute wise:
 
 ● Final JSON document should contain :
+
 ○ Company_name
+
 ○ Company_address
+
 ○ Company_description
+
 ○ Company_rating
+
 ○ Company_verified_tag
+
 ○ Company_icon
+
 ○ Link to individual company page
+
 Note :
 
 ● Code Logic and proper formatting of data will be focused on.
