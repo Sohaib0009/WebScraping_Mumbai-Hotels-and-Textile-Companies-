@@ -2,6 +2,8 @@
 
 LINK OF WEBSITE : https://www.yelu.in/
 
+In this Assignment I Scraped all Restaurants and Textile Companies Data of Location Mumbai
+
 TASK : 
 
 ● Create a web scraper using python (Beautiful soup, scrapy, selenium)
