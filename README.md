@@ -13,19 +13,19 @@ and create a scraper for at least 1k entries.
 
 ● Final JSON document should contain :
 
-○ Company_name
+1- Company_name
 
-○ Company_address
+2- Company_address
 
-○ Company_description
+3- Company_description
 
-○ Company_rating
+4- Company_rating
 
-○ Company_verified_tag
+5- Company_verified_tag
 
-○ Company_icon
+6- Company_icon
 
-○ Link to individual company page
+7- Link to individual company page
 
 Note :
 
