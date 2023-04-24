@@ -1,4 +1,4 @@
-# Zintlr_WebScraping_Assignment
+#WebScraping_Project
 
 LINK OF WEBSITE : https://www.yelu.in/
 
